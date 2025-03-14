@@ -1,1 +1,7 @@
-pip install streamlit folium streamlit-folium sqlalchemy pyyaml streamlit-authenticator
+streamlit
+folium
+streamlit-folium
+sqlalchemy
+pyyaml
+streamlit-authenticator
+
