@@ -120,3 +120,15 @@ def main():
 
 if __name__ == "__main__":
     main()
+credentials:
+  usernames:
+    user1:
+      name: "John Doe"
+      password: "hashed_password"
+    user2:
+      name: "Jane Smith"
+      password: "hashed_password"
+cookie:
+  expiry_days: 30
+  key: "your_secret_key"
+pip install streamlit folium streamlit-folium sqlalchemy pyyaml streamlit-authenticator
