@@ -1,0 +1,11 @@
+credentials:
+  usernames:
+    user1:
+      name: "John Doe"
+      password: "345al"
+    user2:
+      name: "Jane Smith"
+      password: "345al"
+cookie:
+  expiry_days: 30
+  key: "ali"
